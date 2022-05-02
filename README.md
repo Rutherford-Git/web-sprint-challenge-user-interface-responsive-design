@@ -48,7 +48,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 Your finished project must include all of the following requirements:
  
 ​
-### Responsive Design  
+### Responsive Design 
 ​
 Before you jump in, take 10 minutes to review the design files. Take time to see how the home and menu pages are built. Think about the main concepts of Flexbox and how you could use rows or columns to simplify your code. A good developer will have a gameplan for both screen sizes before they type a single line of code. You could even draw on the design files or make your own simple wireframe with labels.
 ​
